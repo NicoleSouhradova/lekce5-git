@@ -8,7 +8,7 @@ git status - zobrazí změněné a staged soubory
 git diff - ukáže konkrétní změny 
 git add . - vše co je ve stavu modified se předělá do stavu staged
 git commit -m (message) "test commit" - vždy tam musí být message -> tímto příkazem změny potvrdíme 
+git push -> "tlačím" své změny na vzdálený repozitář
+git pull -> "táhnu" změny z remote repo do PC
 
 prestavka 19:05
-
-edit z githubu
