@@ -12,3 +12,5 @@ git push -> "tlačím" své změny na vzdálený repozitář
 git pull -> "táhnu" změny z remote repo do PC
 
 prestavka 19:05
+
+zmena z githubu
